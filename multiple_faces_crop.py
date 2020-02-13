@@ -3,7 +3,7 @@ import random
 import os
 
 
-file_dir = "" # images path 
+file_dir = "" # images folder path 
 save_dir = "" # save faces images path 
 
 def myImg(image_dir, path):
